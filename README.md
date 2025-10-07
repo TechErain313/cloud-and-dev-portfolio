@@ -1,30 +1,57 @@
-# Eddie J. Rainey - Senior IT & Cloud Specialist
+# 💻 Eddie J. Rainey — IT & Cloud Specialist | Aspiring Software Developer
 
-Welcome to my GitHub! This repository showcases my journey as an IT professional expanding into cloud engineering and software development.
-
-## 🚀 About Me
-- 16+ years of IT operations, technical support, and enterprise cloud experience.
-- Currently earning my B.S. in Information Technology at South University (4.0 GPA, Chancellor’s List).
-- Passionate about building secure, scalable, and efficient cloud and software solutions.
-
-## 🛠️ Skills
-- **Cloud & Systems:** Azure AD, AWS (EC2, S3, IAM), Office 365, Active Directory
-- **Languages & Frameworks:** React, Angular, ASP.NET Core, C#, JavaScript, TypeScript, Python, PowerShell
-- **Tools:** Git, Jenkins, ServiceNow, Jira, Postman, Docker
-- **Other:** Network Security, ITIL practices, HIPAA compliance
-
-## 💻 Projects
-### React Task Tracker
-A simple task tracking app using React Hooks and state management.
-
-### Angular Scheduling Tool
-An Angular app to manage scheduling and appointments.
-
-### .NET Core API Integration
-Built and tested APIs with Postman and ASP.NET Core.
-
-### PowerShell Automation
-Automated software deployment and updates in enterprise environments.
+Welcome to my professional portfolio!  
+I’m an IT professional with **16+ years of experience** in enterprise technical support, cloud operations, and network administration.  
+Currently finishing my **B.S. in Information Technology (4.0 GPA, Chancellor’s List)** at South University (Graduating August 2027), I’m transitioning into **software development and cloud engineering** — building real projects while leveraging my deep IT background.
 
 ---
-⭐️ Connect with me on [LinkedIn](https://www.linkedin.com/in/mrerain313/) or visit my [GitHub](https://github.com/TechErain313).
+
+## 🚀 About Me
+- 🛠️ Skilled in **Microsoft 365, Azure, AWS, Active Directory, networking, and enterprise support**  
+- 🌐 Learning **React, Angular, ASP.NET Core, and API design** to move into modern software development  
+- ☁️ Experienced in **cloud migrations, automation (PowerShell/Python), and IT process optimization**  
+- 🎓 Currently studying **advanced cloud computing, software engineering, and cybersecurity**  
+- 💡 Passionate about **teaching and empowering the community with tech knowledge** through my business **ES IT Services LLC**
+
+---
+
+## 🧩 Projects in This Repository
+Each folder in this repo showcases hands-on development and cloud automation work.
+
+### 🔹 [react-task-tracker](./react-task-tracker)
+A simple **React web app** to manage tasks, built with hooks and state management.  
+_Practice: React components, state, props, and clean UI structure._
+
+### 🔹 [angular-scheduler](./angular-scheduler)
+A scheduling tool built with **Angular** to understand components, services, and two-way data binding.  
+_Practice: Angular CLI, modules, service-driven architecture._
+
+### 🔹 [dotnet-core-api-testing](./dotnet-core-api-testing)
+Built and tested APIs using **ASP.NET Core** and **Postman** to understand RESTful design and integrations.  
+_Practice: Controllers, endpoints, HTTP methods, JSON serialization._
+
+### 🔹 [powershell-automation](./powershell-automation)
+Scripts that automate IT workflows (deployments, updates, reporting).  
+_Practice: Active Directory automation, enterprise IT support tasks._
+
+---
+
+## ⚡ Tech Stack
+- **Programming:** JavaScript (React, Angular), C#, ASP.NET Core, Python, PowerShell  
+- **Cloud:** Azure, AWS (EC2, S3, IAM), O365, Active Directory  
+- **Networking & Security:** VPN, IAM, Cisco, ITIL practices, HIPAA compliance  
+- **Tools:** Git, Jenkins, ServiceNow, Jira, Postman, Docker (intro)  
+- **Databases:** SQL, Oracle (basic), EHR systems  
+
+---
+
+## 🌟 Career Goals
+I’m focused on transitioning into **Software Development / Cloud Engineering** roles where I can:
+- Build and maintain **scalable, secure cloud solutions**.
+- Develop **modern web apps & APIs** with React, Angular, and .NET Core.
+- Help organizations **automate and innovate IT workflows**.
+
+---
+
+📬 **Let’s Connect:**  
+[LinkedIn](https://www.linkedin.com/in/mrerain313/) • [GitHub](https://github.com/TechErain313) • ✉️ eddie_rainey@yahoo.com
